@@ -1,6 +1,6 @@
 ---
 path: hai
 date: '2019-01-01'
-title: lkjøljl
+title: LOL
 ---
 m,n,mnmnm,
